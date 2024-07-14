@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-3$l#f8++_vb8b#srn4cwx@q*upe32dtyj8#+udda9+r5ltukn4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['drf-foodie.onrender.com']
 CORS_ALLOW_ALL_ORIGINS = True
 
 
